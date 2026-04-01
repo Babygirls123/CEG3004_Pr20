@@ -41,6 +41,8 @@ CEG3004-Environmental-Sound-Classification/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
+├── Pr_20_model.joblib
+├── Pr_20_predictions.csv
 ├── ceg3004_project.py
 ├── results/
 │   └── experiment_notes.md
