@@ -36,7 +36,7 @@ These are used to evaluate robustness.
 
 ## Repository Structure
 ```text
-CEG3004-Environmental-Sound-Classification/
+CEG3004_Pr20
 │
 ├── README.md
 ├── requirements.txt
