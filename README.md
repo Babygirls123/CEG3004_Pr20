@@ -91,8 +91,7 @@ The final model is selected based on validation Macro-F1 score.
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/<your-username>/CEG3004-Environmental-Sound-Classification.git
-cd CEG3004-Environmental-Sound-Classification
+git clone https://github.com/Babygirls123/CEG3004_Pr20
 ```
 
 ### Step 2: Install dependencies
